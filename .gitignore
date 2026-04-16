@@ -2,7 +2,7 @@
 .env
 
 # Local Database & Cache
-chroma_db/
+chromadb/
 __pycache__/
 *.pyc
 
