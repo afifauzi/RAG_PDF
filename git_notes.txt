@@ -1,0 +1,9 @@
+git remote add origin https://github.com/afifauzi/RAG_PDF.git
+git branch -M main
+
+git config --global user.email "afif_fauzi20@yahoo.com"
+git config --global user.name "afifauzi"
+
+git add .
+git commit -m "Initial commit: Agentic RAG with LangGraph and FastAPI"
+git push -u origin main

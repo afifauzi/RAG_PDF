@@ -1,0 +1,15 @@
+# Sensitive Information
+.env
+
+# Local Database & Cache
+chroma_db/
+__pycache__/
+*.pyc
+
+# Large Data (Optional)
+# If your PDF is very large, GitHub might reject it. 
+# It is best practice to keep the data folder empty on GitHub.
+data/*.pdf
+
+# Environment (Even though it is in the parent folder, good to have)
+.venv/
