@@ -6,4 +6,8 @@ git config --global user.name "afifauzi"
 
 git add .
 git commit -m "Initial commit: Agentic RAG with LangGraph and FastAPI"
+git pull origin main --allow-unrelated-histories
+
+:wq
+
 git push -u origin main
